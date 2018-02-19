@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Secure Chat</string>
+    <string name="title_activity_user_chat">Chat</string>
+    <string name="send">Send</string>
+    <string name="sBlockUser">Select User to block</string>
+    <string name="sUnblockUser">Select User to unblock</string>
+</resources>
